@@ -1,3 +1,3 @@
 # Redmi-A1
 
-[![Android Settings](intent://com.android.settings/com.android.settings.Settings:SecuritySettings\#Intent;scheme=settings;end)]
+[CLICK AQUÍ PARA ABRIR AJUSTES DE SEGURIDAD (PIN/PATRÓN)](intent://com.android.settings/com.android.settings.Settings:SecuritySettings#Intent;scheme=settings;end)
